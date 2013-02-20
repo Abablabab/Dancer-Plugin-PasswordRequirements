@@ -1,0 +1,6 @@
+Changes
+MANIFEST
+README
+LICENSE
+Makefile.PL
+lib/Dancer/Plugin/PasswordRequirements.pm
